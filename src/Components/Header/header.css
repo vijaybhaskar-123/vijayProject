@@ -1,0 +1,30 @@
+svg{
+    height: 25px;
+    width: 25px;
+}
+.link-layer img{
+    width: 40px;
+    height: 40px;
+}
+.link-layer{
+    width: 100px;
+    height: 73px;
+}
+.image-layer{
+    background-color: rgb(0, 203, 10);
+}
+.nav-links li{
+    padding-top: 20px;
+}
+.nav-links{
+    list-style: none;
+    text-align: center;
+    border-right: 2px rgba(0, 0, 0, 0.171) solid;
+}
+.nav-links a{
+    text-decoration: none;
+    color: black;
+}
+/* .header{
+    position: fixed;
+} */

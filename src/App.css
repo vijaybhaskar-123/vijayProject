@@ -1,0 +1,8 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.site-control{
+    display: flex;
+    margin-bottom: 50px;
+}

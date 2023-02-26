@@ -1,0 +1,87 @@
+
+.view-container{
+    margin-left: 30px;
+    margin-top: 40px;
+    width: 87.5vw;
+}
+.view-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.view-info span{
+    font-weight: bold;
+}
+.view-info button{
+    display: flex;
+    padding: 10px;
+    width: 150px;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(0, 178, 0);
+}
+
+.graph{
+    margin-top: 75px;
+}
+.graph-values{
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+
+.graph-values p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.violet{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(82, 0, 82);
+    border-radius: 50%;
+}
+.morph{
+    width: 15px;
+    height: 15px;
+    background-color: #355270;
+    border-radius: 50%;
+}
+.feature{
+    width: 15px;
+    height: 15px;
+    background-color: #B9A35F;
+    border-radius: 50%;
+}
+.orange{
+    width: 15px;
+    height: 15px;
+    background-color: orangered;
+    border-radius: 50%;
+}
+.blue-rec{
+    height: 7px;
+    width: 20px;
+    background-color: #3555C2;
+}
+
+
+.legends{
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.legends span{
+    text-decoration: underline;
+    color: rgb(6, 194, 6);
+    padding-right: 10px;
+    
+}
+.det-report{
+    display: flex;
+    justify-content: space-between;
+    line-height: 30px;
+    padding-top: 25px;
+}

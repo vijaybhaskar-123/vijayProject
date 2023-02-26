@@ -1,0 +1,68 @@
+.last-container{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.find-name{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 25px;
+    border-bottom: 2px rgba(196, 192, 192, 0.626) solid;
+}
+.find-name h2{
+    color: rgb(171, 171, 171);
+    margin-right: 450px;
+}
+.sex-status{
+    display: flex;
+    align-items: center;
+}
+.sex-status p{
+    padding-left: 40px;
+}
+.sex-status svg{
+    width: 25px;
+    height: 20px;
+    margin-left: 20px;
+}
+.user{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.user h3{
+    padding-right: 30px;
+}
+.lists{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+}
+.sideline{
+    width: 2px;
+    height: 40px;
+    background-color: rgba(63, 63, 63, 0.792);
+}
+.info-new{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.view-ecg{
+    color: rgb(0, 209, 0);
+    text-transform: uppercase;
+    font-size: 12px;
+    width: 70px;
+}
+.grid-det{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.list-align{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.info-new div{
+    margin-right: 30px;
+}
